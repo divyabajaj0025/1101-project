@@ -1,0 +1,31 @@
+-- tags
+HTML - Hypertext Markup Language
+
+<html> -- opening tag
+</html> -- closing tag
+
+<head> -- 
+
+<body> -- main body of the page
+
+h1 ... h6 -- heading tags
+
+ul tag -- unordered list
+ol tag -- ordered list
+
+li tag -- list item tag
+
+a tag -- anchor tag (hyperlinks)
+href : link attribute
+
+p tag -- paragraph tag
+br tag -- break tag -- standalone tag
+b tag -- bold tag
+i tag -- italicize tag
+
+
+CSS - Cascading Style Sheets 
+
+tag {
+    property : value;
+}
